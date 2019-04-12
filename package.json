@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-modelica",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "Modelica Language syntax highlighting plugin for highlight.js",
   "main": "modelica.js",
   "scripts": {
